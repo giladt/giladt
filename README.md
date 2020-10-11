@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Gilad, experianced VBA developer and Data-Visualization Manager. Resently graduaded 9 intensive weeks of Full-Stack Web Development Bootcamp at Ironhack. During this time I've imporoved my skills in Javascript, NodeJS, Express, React, and MongoDB. Worked with API's, compleated 3 cool projects and had a lot of fun along the way! :blush:
+I'm Gilad, experianced VBA developer and Data-Visualization Manager. Resently graduaded 9 intensive weeks of Full-Stack Web Development Bootcamp at Ironhack. During this time I've imporoved my skills in Javascript, NodeJS, Express, React, and MongoDB. Worked with API's, compleated cool projects and had a lot of fun along the way! :blush:
 
 Ready for hire as Full-Stack / Backend or Front end developer.
-📫 you can reach me in [Liknedin](https://www.linkedin.com/in/gilad-tsabar/)
+📫 you can reach me at [Liknedin](https://www.linkedin.com/in/gilad-tsabar/)
 
 <!--
 **giladt/giladt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
