@@ -1,9 +1,9 @@
 ![Tsabar.net logo](https://github.com/giladt/getHired/raw/master/client/public/images/logo.png)
 
 ### Hi there 👋
-I'm Gilad, experianced VBA developer and Data-Visualization Manager. Resently graduaded 9 intensive weeks of Full-Stack Web Development Bootcamp at Ironhack. During this time I've imporoved my skills in Javascript, NodeJS, Express, React, and MongoDB. Worked with API's, compleated cool projects and had a lot of fun along the way! :blush:
+Fullstack developer with a focus on Frontend. Proficient in Javascript, ReactJS, HTML and CSS3. Experienced with NextJS, Node.JS, GraphQL, MongoDB and creating RESTful APIs.
+Interested in Frontend, Full-Stack or Backend roles either in Berlin or Remote.
 
-Ready for hire as Full-Stack / Backend or Front end developer.<br>
 📫 you can check me up at [Liknedin](https://www.linkedin.com/in/gilad-tsabar/)
 
 <!--
