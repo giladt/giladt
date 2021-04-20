@@ -1,7 +1,7 @@
 ![Tsabar.net logo](https://github.com/giladt/getHired/raw/master/client/public/images/logo.png)
 
 ### Hi there 👋
-Fullstack developer with a focus on Frontend. Proficient in Javascript, ReactJS, HTML and CSS3. Experienced with NextJS, Node.JS, GraphQL, MongoDB and creating RESTful APIs.
+I am a Fullstack Web Developer with a focus on Frontend. Proficient in Javascript, ReactJS, HTML and CSS3. Experienced with NextJS, Node.JS, GraphQL, MongoDB and creating RESTful APIs.
 Interested in Frontend, Full-Stack or Backend roles either in Berlin or Remote.
 
 📫 you can check me up at [Liknedin](https://www.linkedin.com/in/gilad-tsabar/)
