@@ -1,5 +1,5 @@
-![Albert](https://nitter.ggc-project.de/pic/profile_banners%2F1384157868329357323%2F1620058483%2F1500x500)
+![WEB3](https://user-images.githubusercontent.com/2517870/147735359-ee3d3037-708e-4f46-9133-555ce7c6d185.png)
 
 ### Hi there 👋
 
-#### I am a Web3 Frontend Developer busy bringing the next internet revolution. 
+#### I am a Web3 Software Engineer busy bringing in the next internet revolution. 
