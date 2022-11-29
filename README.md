@@ -2,4 +2,4 @@
 
 ### Hi there 👋
 
-#### I am a Web3 Software Engineer busy bringing in the next internet revolution. 
+#### I am a Web3 Frontend Engineer busy bringing in the next internet revolution. 
